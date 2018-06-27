@@ -31,8 +31,10 @@ Adds proper syntax highlighting to JSX:
 <br>
 `eslint --init`
 <br>
-`eslint src/** src/**/**`
+`eslint src/*.jsx src/**/**`
 <br>
 `npm install eslint-loader --save-dev`
 <br>
 `npm install --save styled-jsx`
+<br>
+`npm install react-router-dom@4.0.0 --save`
